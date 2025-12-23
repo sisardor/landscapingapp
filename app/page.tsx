@@ -3,7 +3,7 @@
 export default function Home() {
   return (
     <div className="">
-      Sardor Isakov
+      Home page
     </div>
   );
 }
